@@ -1,7 +1,7 @@
 public class BarBenezri{
 	public static void main(String[] args) {
 		for (int i=1;i<=10; i++) {
-			System.out.println("Bar Benezri ..."+i);
+			System.out.println("Benezri Bar..."+i);
 		}
 	}
 }
